@@ -1675,11 +1675,6 @@ hash = "d271fbf60a0ed229fdfa34cc6a50a9557b24ae56064b4eaaa63c4a3528904b1e"
 metafile = true
 
 [[files]]
-file = "mods/talk-balloons.pw.toml"
-hash = "21087ad678d202fc9b20872857be3344482e1a2ed8a7f1598177deaf3f402c14"
-metafile = true
-
-[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "fef2f8085bbdf6d398b02c87225ad9ccf9cc5d71edde13cd18e12a154764c84e"
 metafile = true
