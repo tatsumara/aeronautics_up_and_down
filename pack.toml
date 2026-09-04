@@ -1,0 +1,13 @@
+name = "Aeronautics Ups&Downs"
+author = "purrson"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2d40ef74853f456ea8d8cb932c7016f13fce1d858760809b6527ae2c5b62abc2"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.249"

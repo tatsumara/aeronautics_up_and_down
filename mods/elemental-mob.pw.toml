@@ -1,0 +1,13 @@
+name = "Elemental Mob"
+filename = "elementalmob-2.0.0-neoforge-alpha.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QnuHJ5zx/versions/dhUHIXtG/elementalmob-2.0.0-neoforge-alpha.4.jar"
+hash-format = "sha512"
+hash = "831a9867add1399d390b74db3676036559bb6c141ab22ab56e0d7409e797577dba6f1c3f828247d0a36ef32de908c04683f9a2b5fc6cb70d08ad69930c5a932f"
+
+[update]
+[update.modrinth]
+mod-id = "QnuHJ5zx"
+version = "dhUHIXtG"

@@ -1,0 +1,13 @@
+name = "Mob Champions"
+filename = "mobchampions-1.21.1-neoforge-1.0.2.2-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrbKKaSr/versions/Tht5nbz9/mobchampions-1.21.1-neoforge-1.0.2.2-NEOFORGE.jar"
+hash-format = "sha512"
+hash = "27d1e84c7b77f528d57200d8f74575f0fa7d71a8d204e00117b79aea4a112bc1da3728119b06712ac96d917447d0c6b4bb711b810b4449947e63988e5234802e"
+
+[update]
+[update.modrinth]
+mod-id = "zrbKKaSr"
+version = "Tht5nbz9"

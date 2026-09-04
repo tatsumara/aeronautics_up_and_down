@@ -1,0 +1,162 @@
+[spawn]
+	#Chance that a mob receives an element. 0.0 allows neutral mobs.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	elementChance = 0.05
+	#Chance that a mob receives one combat trait.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	traitChance = 0.08
+	#Element color overlay strength. 1.0 is the strongest tint.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	overlayAlpha = 1.0
+	#Show elemental identity particles around elemental entities.
+	elementIdentityParticles = true
+	#Enable element environment abilities such as lava healing, water healing, storm lightning buffs, open-air wind buffs, and plant/ore nearby bonuses.
+	environmentAbilities = true
+	#Element population weights. Higher values make that element more common. 0 disables that element.
+	# Default: 10
+	# Range: 0 ~ 10000
+	fireWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	aquaWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	geoWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	windWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	lightningWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	natureWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	iceWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	poisonWeight = 10
+	# Default: 10
+	# Range: 0 ~ 10000
+	sculkWeight = 10
+	#Entity ids that never receive elements or traits, e.g. minecraft:ender_dragon.
+	entityBlacklist = []
+
+[damage]
+	#Portion of outgoing damage converted to the attacker's element.
+	# Default: 1.0
+	# Range: 0.0 ~ 1.0
+	elementalConversion = 1.0
+	# Default: 1.5
+	# Range: 0.0 ~ 10.0
+	advantageMultiplier = 1.5
+	# Default: 0.7
+	# Range: 0.0 ~ 10.0
+	weaknessMultiplier = 0.7
+	# Default: 0.8
+	# Range: 0.0 ~ 10.0
+	sameElementMultiplier = 0.8
+	#Power applied to the chestplate Aegis element matchup. 1.0 means direct dual-element multiplication, so 1.5 x 1.5 = 2.25.
+	# Default: 1.0
+	# Range: 0.0 ~ 10.0
+	aegisMatchupPower = 1.0
+	# Default: 3
+	# Range: 1 ~ 100
+	aegisDurabilityMultiplier = 3
+	# Default: 5
+	# Range: 1 ~ 100
+	curseAegisDurabilityMultiplier = 5
+
+[traits]
+	#Legacy alias. Double Impact uses doubleImpactChance.
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	doubleTapChance = 0.25
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	hunterCritChance = 0.5
+	# Default: 0.5
+	# Range: 0.0 ~ 1.0
+	absorbRate = 0.5
+	# Default: 0.25
+	# Range: 0.0 ~ 1.0
+	doubleImpactChance = 0.25
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	doubleImpactMultiplier = 2.0
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	patientStrikesMultiplier = 3.0
+	# Default: 1.5
+	# Range: 0.0 ~ 100.0
+	hunterMultiplier = 1.5
+	# Default: 3.0
+	# Range: 0.0 ~ 600.0
+	lastStandSeconds = 3.0
+	# Default: 60.0
+	# Range: 0.0 ~ 3600.0
+	lastStandCooldownSeconds = 60.0
+	# Default: 7.0
+	# Range: 0.0 ~ 600.0
+	cowardSeconds = 7.0
+	# Default: 60.0
+	# Range: 0.0 ~ 3600.0
+	cowardCooldownSeconds = 60.0
+	# Default: 0.2
+	# Range: 0.0 ~ 10.0
+	momentumHealRatio = 0.2
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	duelistMultiplier = 2.0
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	elementalMasterBonus = 0.5
+	# Default: 0.2
+	# Range: 0.0 ~ 1.0
+	thickSkinReduction = 0.2
+	# Default: 0.2
+	# Range: 0.0 ~ 100.0
+	thePowerBonus = 0.2
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	allInDamageBonus = 0.5
+	# Default: 0.5
+	# Range: 0.0 ~ 100.0
+	allInTakenBonus = 0.5
+	# Default: 0.3
+	# Range: 0.0 ~ 1.0
+	arrowProofReduction = 0.3
+	# Default: 0.3
+	# Range: 0.0 ~ 100.0
+	theOddsNormalMultiplier = 0.3
+	# Default: 3.0
+	# Range: 0.0 ~ 100.0
+	theOddsFourthMultiplier = 3.0
+	#Lord traits pierce matching elemental resistance with this multiplier.
+	# Default: 0.7
+	# Range: 0.0 ~ 100.0
+	lordResistedMultiplier = 0.7
+	#Lord traits multiply matching elemental damage when the target has no matching resistance.
+	# Default: 1.8
+	# Range: 0.0 ~ 100.0
+	lordUnresistedMultiplier = 1.8
+	# Default: 45
+	# Range: 0 ~ 10000
+	commonTraitWeight = 45
+	# Default: 35
+	# Range: 0 ~ 10000
+	rareTraitWeight = 35
+	# Default: 15
+	# Range: 0 ~ 10000
+	epicTraitWeight = 15
+	# Default: 5
+	# Range: 0 ~ 10000
+	legendaryTraitWeight = 5
+	#Weight for Lord of element traits. Lower means rarer; default 1 is much rarer than Legendary.
+	# Default: 1
+	# Range: 0 ~ 10000
+	mysticTraitWeight = 1

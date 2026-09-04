@@ -1,0 +1,13 @@
+name = "MP - Moog's Paths"
+filename = "moogs_paths-neoforge-1.21.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HDB8pnki/versions/iLqYbaZJ/moogs_paths-neoforge-1.21.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "b7ae8659f45ef47358460c3ad191b09e35fe57bdf87fc95e1fa116b4cc9a9cd710a96c30c8f2724bd8594dee50bbede03a1c6b7996f52d66d2be96067036b7c2"
+
+[update]
+[update.modrinth]
+mod-id = "HDB8pnki"
+version = "iLqYbaZJ"

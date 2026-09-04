@@ -1,0 +1,13 @@
+name = "Mountain World"
+filename = "mountain_world-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/G0F5ib2E/versions/olz9g7AM/mountain_world-1.0.0.jar"
+hash-format = "sha512"
+hash = "186c5fad75039d35eb4241f0f3e6645f702c94f583dd1d68c68a46629dd0883a409e57f9be210d1ae25b28bce55f88d635b5b85a9d1b8471be17c188df139410"
+
+[update]
+[update.modrinth]
+mod-id = "G0F5ib2E"
+version = "olz9g7AM"

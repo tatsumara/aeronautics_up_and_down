@@ -1,0 +1,13 @@
+name = "Katters Structures - Village"
+filename = "katters-structures-only-village-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tzWbvcEg/versions/9ckQOHbI/katters-structures-only-village-2.1.jar"
+hash-format = "sha512"
+hash = "c321828c4072268c08f67368cb417a15dc7fbc1b8c1841ba7d2a7c37834c03a7dd01a8c7b6586bcc064c15460d543ec8a25ce3652e7f7e4dd70261dfe43a35fc"
+
+[update]
+[update.modrinth]
+mod-id = "tzWbvcEg"
+version = "9ckQOHbI"

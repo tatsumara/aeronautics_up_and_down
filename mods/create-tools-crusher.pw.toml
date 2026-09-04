@@ -1,0 +1,13 @@
+name = "Create: Tools Crusher"
+filename = "ctoolscrusher-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2UFNPvUu/versions/is1jNj1D/ctoolscrusher-1.0.0.jar"
+hash-format = "sha512"
+hash = "d9f5fa8b284a24a4cbbdfcd69bfcff5e2b783ccbf9001119ebb1aea339bf36bd2d89560236b4c389f61b594e3502986389484e2d70975b53d7687429ef063bb7"
+
+[update]
+[update.modrinth]
+mod-id = "2UFNPvUu"
+version = "is1jNj1D"

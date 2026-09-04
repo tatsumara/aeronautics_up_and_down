@@ -1,0 +1,13 @@
+name = "Antique Atlas: Create Train Networks"
+filename = "antique-atlas-railways-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OCKZqbku/versions/MTd3zAHq/antique-atlas-railways-1.1.0.jar"
+hash-format = "sha512"
+hash = "d812bd815493292eab763588750e0362c12eb71f36a3738ce409ba1e3ca5bb0339766b127368fcc28fd7e182acb1dc189cde659c86226f43b8058554eb3cacce"
+
+[update]
+[update.modrinth]
+mod-id = "OCKZqbku"
+version = "MTd3zAHq"
