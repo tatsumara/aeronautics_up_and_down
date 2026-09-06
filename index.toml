@@ -1490,16 +1490,6 @@ hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
-file = "mods/pmtemperature.pw.toml"
-hash = "bf91d603bed7d31edd658ae6b4ae1dd357e390618652f568d6d16c008d6c9084"
-metafile = true
-
-[[files]]
-file = "mods/protomanlys-weather.pw.toml"
-hash = "6b95e126ace523adbe40d43956f43bdfdd1fe135a3947acdf5ef4ef4cb754e80"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "ac245e55621b2c36689db9068a9c6bfd01f98b89c66e344399a4a5a9fca209be"
 metafile = true
