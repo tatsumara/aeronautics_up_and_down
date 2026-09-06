@@ -1511,6 +1511,11 @@ hash = "bf91d603bed7d31edd658ae6b4ae1dd357e390618652f568d6d16c008d6c9084"
 metafile = true
 
 [[files]]
+file = "mods/protomanlys-weather.pw.toml"
+hash = "6b95e126ace523adbe40d43956f43bdfdd1fe135a3947acdf5ef4ef4cb754e80"
+metafile = true
+
+[[files]]
 file = "mods/rechiseled-create.pw.toml"
 hash = "f7758221468760a7d22b31f97e822f5a66fa1fa21d2c8b4b3bb21ca01faff3cd"
 metafile = true
