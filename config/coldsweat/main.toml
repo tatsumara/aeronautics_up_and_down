@@ -24,7 +24,7 @@
 	# Rate at which the player's body temperature changes (default: 1.0 (100%))
 	# Default: 1.0
 	# Range: 0.0 ~ Infinity
-	"Rate Multiplier" = 1.0
+	"Rate Multiplier" = 0.7
 	#─────────────────────────────────────────────────────────────────────────
 	# Damage dealt to the player when they are too hot or too cold
 	# Default: 2.0
@@ -45,7 +45,7 @@
 		# Set to a value above 64 to disable the effect
 		# Default: 6.0
 		# Range: 0.0 ~ Infinity
-		"Heatstroke Fog" = 6.0
+		"Heatstroke Fog" = 10.0
 
 	["Temperature Effects".Cold]
 		#─────────────────────────────────────────────────────────────────────────

@@ -1,12 +1,12 @@
 name = "Aeronautics Ups&Downs"
-author = "purrson"
-version = "1.0.0"
+author = "purrson % collie"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4a892ef82195d6cf4308492def2958019a2b3dbbf9fb0b4cd4361963916c0530"
+hash = "7ca10c98a53d3c3996e951a88059b6ec697c698a3a632ef8bee7e34dcc8a01f4"
 
 [versions]
 minecraft = "1.21.1"

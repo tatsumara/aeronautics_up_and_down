@@ -2,11 +2,11 @@
 	#Chance that a mob receives an element. 0.0 allows neutral mobs.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
-	elementChance = 0.05
+	elementChance = 0.03
 	#Chance that a mob receives one combat trait.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
-	traitChance = 0.08
+	traitChance = 0.5
 	#Element color overlay strength. 1.0 is the strongest tint.
 	# Default: 1.0
 	# Range: 0.0 ~ 1.0
