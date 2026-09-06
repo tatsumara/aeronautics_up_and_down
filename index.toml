@@ -617,6 +617,10 @@ file = "config/modernfix-mixins.properties"
 hash = "d3a3839bec8e21825fe791a24d6226c1dd3fc94b38588fa52d42cf773868b7c7"
 
 [[files]]
+file = "config/moogs_structures.json"
+hash = "2a62848ca43cd450eeb04723a1ae12b8a76a0bb15484f400caf829aa27eb4ba0"
+
+[[files]]
 file = "config/moonlight-client.toml"
 hash = "71966bc6f963b429b0c5fd4529bd07951256934313a023f7a3478f85fff79b5d"
 
@@ -1197,7 +1201,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "d5b9c23df79ef871a70032567db2512904251347bdf13da80fbb8b00a846a79a"
+hash = "4a2d71be3b840f675290ca200290cacfd968e37da9cb27b83476d002d8d897c3"
 metafile = true
 
 [[files]]
