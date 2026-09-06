@@ -951,11 +951,6 @@ hash = "79413863dc0409ce63f2cd0b25485b05c131707caa21f8e269325f5f6ad741cd"
 metafile = true
 
 [[files]]
-file = "mods/antique-atlas-create-train-networks.pw.toml"
-hash = "4dd39b8adae44b8ce8348e95c0688699ebffe9885fb551d14879fa42428488d1"
-metafile = true
-
-[[files]]
 file = "mods/antique-transport.pw.toml"
 hash = "891be2897e122a50bd68da39b9bd866812edc4a5d650994e154a90afd132fb63"
 metafile = true
@@ -1028,11 +1023,6 @@ metafile = true
 [[files]]
 file = "mods/chunksmith.pw.toml"
 hash = "4a46c4f69aa23b6bc73de98123cf29c855f7b92fae037cc20b7e9b6b1867f6e0"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
@@ -1346,11 +1336,6 @@ hash = "a9753471d4c2338d0a0a8232eef83f163c351933c25780a60d29ba23435df217"
 metafile = true
 
 [[files]]
-file = "mods/item-descriptions.pw.toml"
-hash = "b902e2a8d9a070dec6136632ea901f2bcb7185c41554d08128f377a1825ed495"
-metafile = true
-
-[[files]]
 file = "mods/ixeris.pw.toml"
 hash = "c82344480d1ff51e6f0804e753689cf41423e312fca2dc167734bbfdf7004c54"
 metafile = true
@@ -1423,6 +1408,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
 metafile = true
 
 [[files]]
@@ -1513,6 +1503,11 @@ metafile = true
 [[files]]
 file = "mods/protomanlys-weather.pw.toml"
 hash = "6b95e126ace523adbe40d43956f43bdfdd1fe135a3947acdf5ef4ef4cb754e80"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "ac245e55621b2c36689db9068a9c6bfd01f98b89c66e344399a4a5a9fca209be"
 metafile = true
 
 [[files]]
